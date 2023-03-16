@@ -1,0 +1,20 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "/home/celso/Devel/utils/android-keys/bagarote/bagarote.keystore",
+            "storePassword": "bagarote",
+            "alias": "bagarote",
+            "password" : "bagarote",
+            "keystoreType": "",
+            "packageType": "apk"
+        },
+        "release": {
+            "keystore": "/home/celso/Devel/utils/android-keys/bagarote/bagarote.keystore",
+            "storePassword": "bagarote",
+            "alias": "bagarote",
+            "password" : "bagarote",
+            "keystoreType": "",
+            "packageType": "bundle"
+        }
+    }
+}
