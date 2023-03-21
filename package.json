@@ -1,8 +1,8 @@
 {
-  "name": "quasar-project",
-  "version": "0.0.1",
+  "name": "teste-celso",
+  "version": "1.0.0",
   "description": "A Quasar Project",
-  "productName": "Quasar App",
+  "productName": "Teste Celso",
   "author": "Celso Nery <celso.nery@gmail.com>",
   "private": true,
   "scripts": {
