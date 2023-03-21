@@ -15,9 +15,15 @@
   "cordova": {
     "platforms": [
       "android"
-    ]
+    ],
+    "plugins": {
+      "cordova-plugin-purchase": {
+        "BILLING_KEY": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA39/0vyhHKnndOmDRWqPoKSo9hwkieTaUDJGR+Mp/qZIBKoPHsmtmCWMq1l7mZqiNL9Z5HPcaOyzNmcnO2Xmf/+Qp2tw6qmIolTMrCHh8fZA8/slVJIQ30zEsxUNaqQt6Hzp40b5HUjh2qyWTkZYnrZ7MEo4p1krgtyqktl3MWor83m4AnU2CYJmClFLaBZ0rsUo/7x1N/JP0uwogOHP9j1znx5m6kW4uBIfoiYjBFq4dy6WWz2igQJB1bT8SdmKd1QXoP9fcGAFEq6nuLpk6RdczDN+hiv5+Ad38c8W2pjDDpPZkahT/w9s4/aZWHWu1pmfvGC1SUQYtbRkAkcepqQIDAQAB"
+      }
+    }
   },
   "devDependencies": {
-    "cordova-android": "^11.0.0"
+    "cordova-android": "^11.0.0",
+    "cordova-plugin-purchase": "^13.3.10"
   }
 }
